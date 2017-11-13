@@ -12,6 +12,7 @@ namespace VersDocGruppe
         static void Main(string[] args)
         {
             Console.WriteLine("hej mulle");
+            Console.WriteLine("Hvad laver du?");
             Console.ReadKey();
         }
     }

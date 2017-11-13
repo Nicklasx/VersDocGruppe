@@ -16,8 +16,6 @@ namespace VersDocGruppe
                 Console.WriteLine("hej mulle");
             }
             Console.ReadKey();
-
-
         }
     }
 }

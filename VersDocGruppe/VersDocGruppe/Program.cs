@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace VersDocGruppe
 {
@@ -10,6 +11,8 @@ namespace VersDocGruppe
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hej mulle");
+            Console.ReadKey();
         }
     }
 }

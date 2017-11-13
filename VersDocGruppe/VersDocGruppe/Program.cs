@@ -11,8 +11,11 @@ namespace VersDocGruppe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hej mulle");
-            Console.WriteLine("Hvad laver du?");
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("hej mulle");
+                Console.WriteLine("Hvad laver du?");
+            }
             Console.ReadKey();
         }
     }
